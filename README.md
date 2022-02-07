@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jujucells
+- 👀 I’m interested in math, science, and music.
+- 🌱 I’m currently learning java programming in class and teaching myself Python.
+- 💞️ I’m looking to collaborate on any project that would help me to better myself.
+- 📫 How to reach me: mrice@bellarmine.edu
